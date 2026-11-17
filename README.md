@@ -4,42 +4,66 @@
   <summary>🌐 <b>Click here for English version</b></summary>
   <br />
 
-  3rd-year Computer Engineering student specializing in Computing, focusing on algorithms, data structures, and robotics. Passionate about understanding how things work and finding innovative ways to leverage them.
+  4th-year Computer Engineering student at UAB (Universitat Autònoma de Barcelona), specializing in Computing. Focused on computer vision, robotics, data analysis and machine learning, with a strong foundation in algorithms and data structures. Currently looking for a curricular internship, available immediately.
 
   ## About me 😎
-  - Focused on writing clean, optimized, and scalable code for future use.
-  - Naturally curious, always searching for the "why" behind how things work and their edge cases.
-  - Always motivated to create and discover new technologies.
+  - I write clean, optimized and maintainable code.
+  - Naturally curious: I always look for the "why" behind how things work, including edge cases.
+  - I enjoy building real things, from a physical robot to a 3D game, and learning new technologies along the way.
+
+  ## Featured projects 🛠️
+  - **[Cart-ON](<!-- TODO: repo link -->) · Autonomous assistant and guide robot**
+    Physical robot with autonomous navigation, environment mapping with camera and Lidar, object detection and voice interaction.
+    *Raspberry Pi, Arduino Uno, Python, C++*
+  - **[Into the Wrath](<!-- TODO: repo link -->) · 3D escape room game**
+    First-person game where the player explores a 3D environment and solves puzzles.
+    *OpenGL, GLFW, ImGui*
+  - **[Heart Disease Prediction](<!-- TODO: repo link -->)**
+    Machine learning with decision trees to predict cardiovascular disease, reaching a recall of 77.78%.
+    *Python, NumPy, Pandas, Scikit-learn, Matplotlib*
 
   ## Technologies & Tools 👾
-  - **Languages:** C, C++, Python, Assembly (x86/MIPS), MATLAB, R, PHP, HTML/CSS
-  - **Libraries & Frameworks:**
-    - *Data Analysis / ML:* NumPy, Pandas, Matplotlib, Scikit-Learn
-    - *Graphics & Game Dev:* OpenGL, GLFW, ImGui, Pygame
-  - **Tools & IDEs:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebooks, RStudio, Spyder, Godot Engine
+  - **Languages:** Python, C, C++, SQL, Assembly (x86/MIPS), MATLAB, R, PHP, Lua, GDScript, HTML/CSS
+  - **Computer Vision & ML:** OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn
+  - **Graphics & Game Dev:** OpenGL, GLFW, ImGui, Pygame, Godot Engine
+  - **Robotics & Embedded:** Raspberry Pi, Arduino, CoppeliaSim
+  - **Tools:** Linux, Git, GitHub, VS Code, Visual Studio, Jupyter Notebooks, Google Colab, RStudio, Spyder
 
   ## Contact ☎️
-  Feel free to reach out at: **marcsoles27@gmail.com**
+  - 📧 marcsoles27@gmail.com
+  - 💼 [LinkedIn](https://www.linkedin.com/in/marcsolesirojas)
 </details>
 
 <details open>
   <summary>🌐 <b>Haz clic aquí para la versión en Español</b></summary>
   <br />
 
-  Estudiante de 3er año de Ingeniería Informática (mención en Computación), enfocado en el desarrollo de algoritmos, estructuras de datos y robótica. Apasionado por entender el funcionamiento de las cosas y encontrar formas innovadoras de aprovecharlas.
+  Estudiante de 4º curso de Ingeniería Informática en la UAB (Universitat Autònoma de Barcelona), con mención en Computación. Enfocado en visión por computador, robótica, análisis de datos y machine learning, con una base sólida en algoritmos y estructuras de datos. En búsqueda de prácticas curriculares, con disponibilidad inmediata.
 
   ## Sobre mí 😎
-  - Enfocado en desarrollar código limpio, optimizado y escalable para futuros usos.
-  - Curioso por naturaleza, siempre buscando el porqué de las cosas y analizando casos límite.
-  - Motivado constantemente por crear, experimentar y descubrir nuevas tecnologías.
+  - Escribo código limpio, optimizado y mantenible.
+  - Curioso por naturaleza: siempre busco el porqué de las cosas, incluidos los casos límite.
+  - Disfruto construyendo cosas reales, desde un robot físico hasta un videojuego 3D, y aprendiendo nuevas tecnologías por el camino.
+
+  ## Proyectos destacados 🛠️
+  - **[Cart-ON](<!-- TODO: enlace al repo -->) · Robot autónomo asistente y guía**
+    Robot físico con navegación autónoma, mapeado del entorno con cámara y Lidar, detección de objetos e interacción por voz.
+    *Raspberry Pi, Arduino Uno, Python, C++*
+  - **[Into the Wrath](<!-- TODO: enlace al repo -->) · Videojuego 3D tipo escape room**
+    Juego en primera persona donde el jugador explora un entorno 3D y resuelve puzzles.
+    *OpenGL, GLFW, ImGui*
+  - **[Predicción de enfermedades cardíacas](<!-- TODO: enlace al repo -->)**
+    Machine Learning con árboles de decisión para predecir enfermedad cardiovascular, con un recall del 77,78%.
+    *Python, NumPy, Pandas, Scikit-learn, Matplotlib*
 
   ## Tecnologías y herramientas 👾
-  - **Lenguajes:** C, C++, Python, Ensamblador, MATLAB, R, PHP, HTML/CSS
-  - **Librerías y Frameworks:**
-    - *Análisis de datos / ML:* NumPy, Pandas, Matplotlib, Scikit-Learn
-    - *Gráficos y Videojuegos:* OpenGL, GLFW, ImGui, Pygame
-  - **Herramientas e IDEs:** Git, GitHub, VS Code, Visual Studio, Jupyter Notebooks, RStudio, Spyder, Godot Engine
+  - **Lenguajes:** Python, C, C++, SQL, Ensamblador (x86/MIPS), MATLAB, R, PHP, Lua, GDScript, HTML/CSS
+  - **Visión por computador y ML:** OpenCV, NumPy, Pandas, Matplotlib, Scikit-learn
+  - **Gráficos y videojuegos:** OpenGL, GLFW, ImGui, Pygame, Godot Engine
+  - **Robótica y sistemas embebidos:** Raspberry Pi, Arduino, CoppeliaSim
+  - **Herramientas:** Linux, Git, GitHub, VS Code, Visual Studio, Jupyter Notebooks, Google Colab, RStudio, Spyder
 
   ## Contacto ☎️
-  Puedes encontrarme en: **marcsoles27@gmail.com**
+  - 📧 marcsoles27@gmail.com
+  - 💼 [LinkedIn](https://www.linkedin.com/in/marcsolesirojas)
 </details>
